@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="keywords" content="HTML, CSS" />
+    <meta name="description" content="HTML study project" />
+    <title>test coding website</title>
+    <style>
+      em {
+        color: blue;
+        font-style: italic;
+      }
+      img {
+        width: 250px;
+        border-radius: 125px;
+        border-bottom-left-radius: 60px;
+        border-bottom-right-radius: 55px;
+        margin-inline-start: 10cm;
+      }
+
+      p.username {
+        font-weight: bold;
+        font-size: larger;
+      }
+      p.Caption {
+        font-size: smaller;
+        font-variant-east-asian: full-width;
+        margin-bottom: 2cm;
+      }
+      p.comment {
+        font-weight: bold;
+        font-size: large;
+      }
+    </style>
+  </head>
+  <body>
+ 
+    <p class="username">@Nawzhen_Nzar04</p>
+    <p class="Caption">learning HTML 5 is FUN</p>
+    <p class="comment">hama qado</p>
+    <p>bro you are trash at this</p>
+    <a href="../project.html"> homepage <img src="images\69957982_122275765773207_948844469043616537_n.jpg" alt="nawa drawing"></a>
+ <a href="images/IMG_20191018_000303_571.jpg"> my drawing</a>
+ </body>
+</html>
